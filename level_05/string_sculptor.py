@@ -1,15 +1,13 @@
-def sculptor(text: str) -> str:
-	result = ""
-	count = 0
-	p = True
-	while count < len(text):
-		if text[count].isalpha():
-			if p:
-				result += text[count].lower()
-			else:
-				result += text[count].upper()
-			p = not p
-		else:
-			result += text[count]
-		count += 1
-	return result
+def string_sculptor(text: str) -> str:
+    res = ""
+    count = 0
+    for char in text:
+        if char.isalpha():
+            if count % 2 == 0:
+                res += char.lower()
+            else:
+                res += char.upper()
+            count += 1
+        else:
+            res += char
+    return res

@@ -1,0 +1,13 @@
+def bracket_validator(s: str) -> bool:
+def vogal(strings: list[str]) -> list[str]:
+def palindrome(s: str) -> bool:
+def reversematrix(s: list[list[int]]) -> list[list[int]]:
+def number_base_converter(num: str, src_base: int, dest_base: int) -> str:
+def pattern_tracker(s: str) -> int:
+def inter(s1, s2):
+def anagram(s: str, t: str) -> bool:
+def shadow_merge(list1: list[int], list2: list[int]) -> list[int]:
+def string_sculptor(text: str) -> str:
+def twist_sequence(arr: list[int], k: int) -> list[int]:
+def whisper_chiper(s: str, n: int) -> str:
+
