@@ -1,6 +1,6 @@
 # Exam Rank 3 Practice 📚
 
-[cite_start]This repository contains a collection of Python solutions aimed at preparing for the **Rank 3** programming exam[cite: 1, 2]. [cite_start]Each exercise focuses on core concepts such as algorithms, string manipulation, matrices, and data structures[cite: 4, 14, 29, 38, 55, 69, 77, 86, 93, 105, 126, 138, 155].
+This repository contains a collection of Python solutions aimed at preparing for the **Rank 3** programming exam. Each exercise focuses on core concepts such as algorithms, string manipulation, matrices, and data structures
 
 ## 🛠️ Repository Contents
 
